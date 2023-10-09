@@ -9,10 +9,10 @@ My major is Bioengineering with a double major in Chemistry and AI Specialized M
 My current dry-lab research interests include biophysical simulations, rational protein design, lab automation and scientific software development. 
 On the wet-lab side, I am interested in structural biology and spectroscopy.
 
-At the moment, I am in Therapeutic Protein Design and Structural Bio Lab (of Prof. Byung-Ha Oh), studying physics- and ML-based methods of protein design. 
-Before that, I did 1 year of undergraduate research in Sustainable Catalysis Lab (of Prof. Yoonsu Park), where I researched on organic reaction development using catalyst optimization.
+At the moment, I am in [Therapeutic Protein Design and Structural Bio Lab (of Prof. Byung-Ha Oh)](https://sites.google.com/view/tpdsb/home?authuser=0), studying physics- and ML-based methods of protein design. 
+Before that, I did 1 year of undergraduate research in [Sustainable Catalysis Lab (of Prof. Yoonsu Park)](https://ypark-lab.com/), where I researched on organic reaction development using catalyst optimization.
 
-From high school, I have experience in robotics (FIRST) and debates (MUN), as well as native fluency of English and Russian.
+From high school, I have experience in [robotics (FIRST)](https://first.global/2020-nations/mongolia-2020/) and debates (MUN), as well as native fluency of English and Russian.
 
 #### Programming Skills
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a> <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="MATLAB" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
