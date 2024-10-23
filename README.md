@@ -1,16 +1,6 @@
 👋 Hi, I’m Tulga (Tulga-Erdene Sodjargal / ᠲᠤᠯᠭ᠎ᠠ-ᠡᠷᠳᠡᠨᠢ) 🇲🇳
 
-I'm currently a 3rd year student at KAIST (Korea Advanced Institute of Science and Technology) in Daejeon, Korea 🇰🇷
 
-My major is Bioengineering with a double major in Chemistry and AI Specialized Major.
-
-My current dry-lab research interests include biophysical simulations, rational protein design, lab automation and scientific software development. 
-On the wet-lab side, I am interested in structural biology and spectroscopy.
-
-At the moment, I am in [Prof. Taras V. Pogorelov's lab (at UIUC)](https://pogorelov.scs.illinois.edu/), studying the behaviour of biomolecules in cellular bilayers, as well as in [Prof. Rajib Schubert's lab (at KAIST)](https://bioeng.kaist.ac.kr/index.php?document_srl=17637&mid=bio_03_01_en), studying the liquid biopsy methods for early-cancer detection. 
-Before that, I did 4 months of internship in [Therapeutic Protein Design and Structural Bio Lab (of Prof. Byung-Ha Oh)](https://sites.google.com/view/tpdsb/home?authuser=0), studying physics- and ML-based methods of protein design, as well as 1 year of undergraduate research in [Sustainable Catalysis Lab (of Prof. Yoonsu Park)](https://ypark-lab.com/), where I researched on organic reaction development using catalyst optimization.
-
-From high school, I have experience in [robotics (I was the national team captain at FIRST Global Challenge 2020)](https://first.global/2020-nations/mongolia-2020/) and debates (MUN), as well as native fluency of English and Russian.
 
 #### Programming Skills
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a> <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="MATLAB" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
