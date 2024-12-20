@@ -1,4 +1,4 @@
-👋 Hi, I’m Tulga (Tulga-Erdene Sodjargal / ᠲᠤᠯᠭ᠎ᠠ-ᠡᠷᠳᠡᠨᠢ) 🇲🇳
+👋 Hi, I’m Tulga (Tulga-Erdene Sodjargal / ᠲᠤᠯᠭ᠎ᠠ-ᠡᠷᠳᠡᠨᠢ) 🇲🇳 . I'm a student at KAIST, Korea, currently on exchange stay at EPFL, Switzerland and working on ML for molecular simulations. 
 
 
 
@@ -12,7 +12,7 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" alt="Bash" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
 
 📫 How to reach me:
-<a href="https://www.linkedin.com/in/tulga-erdene-sodjargal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tulga-erdene-sodjargal" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/tulga-erdene/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tulga-erdene-sodjargal" height="30" width="40" /></a>
 <a href="https://twitter.com/tulga_rdn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tulga_rdn" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/thfdealer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="thfdealer" height="30" width="40" /></a>
 <a href="https://fb.com/thf.dealer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thf.dealer" height="30" width="40" /></a>
