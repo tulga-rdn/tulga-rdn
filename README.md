@@ -1,6 +1,6 @@
 👋 Hi, I’m Tulga (Tulga-Erdene Sodjargal / ᠲᠤᠯᠭ᠎ᠠ-ᠡᠷᠳᠡᠨᠢ) 🇲🇳 . I'm a student at KAIST, Korea, currently on exchange stay at EPFL, Switzerland and working on ML for molecular simulations. 
 
-
+[![Tulga's GitHub stats](https://github-readme-stats.vercel.app/api?username=tulga-rdn&show_icons=true&theme=dark)](https://github.com/tulga-rdn)
 
 #### Programming Skills
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a> <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="MATLAB" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
